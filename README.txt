@@ -1,5 +1,5 @@
-COMP 2150 ASSIGNMENT 3 EXECUTION INSTRUCTIONS
-_____________________________________________
+EXECUTION INSTRUCTIONS
+_____________________
 
 
    
